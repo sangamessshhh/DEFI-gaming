@@ -24,9 +24,9 @@ and choose:
 
 * Subnet-EVM
 
-* ChainId: 1111
+* ChainId: 2345
 
-* Token symbol: SGM
+* Token symbol: SAN
 
 Default values for the other configurations
 
