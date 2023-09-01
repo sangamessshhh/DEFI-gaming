@@ -24,7 +24,7 @@ and choose:
 
 * Subnet-EVM
 
-* ChainId: 2345
+* ChainId: 2567
 
 * Token symbol: SAN
 
